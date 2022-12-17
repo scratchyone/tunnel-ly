@@ -12,4 +12,4 @@ Contributions are extremely welcome! Please open an issue or PR if you have any 
 
 ### Architecture
 
-![Architecture](https://raw.githubusercontent.com/lukechampine/tunnel-ly/master/architecture.png)
+![Architecture](https://raw.githubusercontent.com/scratchyone/tunnel-ly/main/tunnel-ly.png)
